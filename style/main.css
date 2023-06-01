@@ -329,11 +329,12 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #eee4da;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
+    background:url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/%E5%89%AF%E7%B8%BD%E7%B5%B1%E8%B3%B4%E6%B8%85%E5%BE%B7%E5%AE%98%E6%96%B9%E8%82%96%E5%83%8F.jpg/220px-%E5%89%AF%E7%B8%BD%E7%B5%B1%E8%B3%B4%E6%B8%85%E5%BE%B7%E5%AE%98%E6%96%B9%E8%82%96%E5%83%8F.jpg);
   .tile.tile-4 .tile-inner {
     background: #ede0c8;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
+    box-shadow:BACKGROUND-SIZE: cover;
+    COLOR: color: rgb(0,0,0,0);
+    color: rgba(0,0,0,0);
   .tile.tile-8 .tile-inner {
     color: #f9f6f2;
     background: #f2b179; }
